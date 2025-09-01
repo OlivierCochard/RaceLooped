@@ -10,7 +10,7 @@ Extract .zip and double click .exe
 
 # Images
 <table>
-	<img src="Images/game_7_1.png" width="100%"/>
+	<img src="Images/game_7_1.jpg" width="100%"/>
   <tr>
   	<td><img src="Images/game_7_2.png" width="300"/></td>
     <td><img src="Images/game_7_3.png" width="300"/></td>
